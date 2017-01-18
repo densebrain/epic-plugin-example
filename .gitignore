@@ -1,0 +1,13 @@
+
+# NODE
+node_modules
+
+# BUILD
+dist
+
+# IDEA
+workspace.xml
+misc.xml
+
+# LOGS
+*.log
